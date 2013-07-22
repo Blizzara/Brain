@@ -1,0 +1,4 @@
+[Project]
+Name=Brain
+Manager=KDevCMakeManager
+VersionControl=kdevgit
